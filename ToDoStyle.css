@@ -1,0 +1,79 @@
+
+
+<STYLE type="text/css">
+    
+
+    ul { 
+        background: lightgrey; 
+        margin: 30px;
+        padding: 3px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align:center;
+                                     
+      }
+      li { 
+        color: white;               
+        background: lightgrey;            
+        margin: 1px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 15px; 
+        list-style: square
+    
+        
+                                     
+      }
+      
+      li.withborder {
+        border-style: solid;
+        border-width: medium;        
+        border-color: black;
+       
+      }
+   
+
+    body {
+        margin: auto;
+        padding: 90px;
+        width: auto;
+        height: 100%;
+    }
+ 
+
+    .top {
+        background-color: black;
+        width: auto;
+        height: 20px;
+        text-align: center;
+        padding: px;
+        margin-left: auto;
+        margin-right: auto;
+
+   .subject {
+        background-color: none;
+         width: 50px;
+         height: 80px;
+        font-family: fantasy;
+        text-align:center;
+    } 
+
+
+    
+    .myCheckbox input {
+    display: none;
+}
+
+.myCheckbox span {
+    width: 20px;
+    height: 20px;
+    display: block;
+    background: none;
+    text-align: center;
+    border-style: solid;
+}
+
+
+
+
+</STYLE>
